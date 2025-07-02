@@ -7,10 +7,10 @@ A focused collection of data structure and algorithm solutions for technical int
 
 This repository contains my solutions to common interview coding questions, primarily from LeetCode. Each solution is implemented with:
 
-- Clean, production-quality code
-- Optimal time and space complexity
-- Proper edge case handling
-- Interview-ready explanations
+- Clean, production-quality code.
+- Optimal time and space complexity.
+- Proper edge case handling.
+- Interview-ready explanations.
 
 Each problem solution includes:
 1. Problem statement (commented)
