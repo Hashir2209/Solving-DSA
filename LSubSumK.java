@@ -16,6 +16,7 @@ public class LSubSumK {
 
     }
     // Time Complexity - O(n^2)
+    //Space Complexity - O(1)
     static int longest1(int[] arr, int n,int s){
         int maxLen=0;
         for(int i=0;i<n;i++){
